@@ -1,0 +1,262 @@
+{
+  "name": "Michael D. Butler",
+  "tagline": "Experienced Software Engineer",
+  "resume": {
+    "contact": {
+      "address": {
+        "encodedValue": "V2l0aGhlbGQ="
+      },
+      "phone": {
+        "encodedValue": "V2l0aGhlbGQ="
+      },
+      "email": {
+        "username": {
+          "encodedValue": "V2l0aGhlbGQ="
+        },
+        "domain": {
+          "encodedValue": "V2l0aGhlbGQ="
+        }
+      },
+      "linkedIn": {
+        "display": "LinkedIn",
+        "printDisplay": "www.linkedin.com/in/michael-d-butler-pittsburgh-pa",
+        "url": "https://www.linkedin.com/in/michael-d-butler-pittsburgh-pa"
+      }
+    },
+    "experience": [
+      {
+        "name": "UPMC Enterprises",
+        "location": "Pittsburgh, PA",
+        "summary": "Developed and led development of software to make create better outcomes for patients",
+        "positions": [
+          {
+            "title": "Software Engineer, Senior",
+            "startDate": "September 2015",
+            "duties": [
+              "I continued focusing on mentorship and championing best practices while leading my team while also deepening my own skills and knowledge.",
+              "After the radiology project wound down, I did some exploration of the SPA landscape and advocated for UPMCE to start using React in it's projects.",
+              "My next project was contributing to and then leading a team working on a Java Spring Boot data transformation solution.",
+              "My next two projects were with small teams of two or three, so my focus was on code contribution and learning new technologies like Vue 2.",
+              "The COVID-19 pandemic disrupted that second project, and I was loaned out to a portfolio company using React for its front-end and was introduced to the Fluent UI library.",
+              "Since February 2021, I've been working on a doctor-to-doctor telemedicine driver using primarily full-stack JavaScript with express and Vue 2.",
+              "I also led an effort to develop a companion application using TypeScript, Vue 3, and GraphQL."
+            ]
+          },
+          {
+            "title": "Software Engineer, Intermediate",
+            "startDate": "January 2015",
+            "endDate": "September 2015",
+            "duties": [
+              "Coinciding with my promotion was a drastic increase in responsibility as I was chosen to lead an existing team.",
+              "The primary expectation of me was mentorship, which I did through pairing, championing best practice, and honing the strengths of each team member.",
+              "I delivered several presentations and in-house trainings on good testing practices.",
+              "I continued to make contribute to the project as an individual, deepening my skills, especially around JavaScript."
+            ]
+          },
+          {
+            "title": "Software Engineer, Associate",
+            "startDate": "August 2013",
+            "endDate": "January 2015",
+            "duties": [
+              "My first projects were rapid prototyping technical or UX solutions for testing and validation.",
+              "That work evolved into contributing to a global team writing a full-stack radiology workflow driver application using Java and AngularJs.",
+              "My role on the team and the role of our team in the larger structure was focused on (but not limited to) UI and UX development."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Datel Software Solutions",
+        "location": "Wexford, PA",
+        "summary": "Built and maintained software to harness VOIP data to aid call center managers",
+        "positions": [
+          {
+            "title": "Junior Developer",
+            "startDate": "January 2012",
+            "endDate": "July 2013",
+            "duties": [
+              "I contributed code to developed and maintain a system that processes real-time call data from phone systems into reports and real-time monitoring.",
+              "My initial duties focusing on building tests and smashing bugs in the .NET existing system, focused primarily on the C# code.",
+              "When needed, I worked on custom changes for specific customer needs.",
+              "Led development against a new phone system using a combination of real world data and a \"lab\" setup."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pittsburgh Technical Institute (now Pittsburgh Technical College )",
+        "location": "Oakdale, PA",
+        "summary": "Helped faculty teach students the fundamentals of software development",
+        "positions": [
+          {
+            "title": "Teacher's Assistant",
+            "startDate": "October 2011",
+            "endDate": "January 2012",
+            "duties": [
+              "After my first year of formal training, the department head chose another student and I to be TAs for the next cohort of students.",
+              "I assisted the head of the department with classes by giving students guidance, practical advice, and troubleshooting help."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Freelance Web Development",
+        "location": "Pittsburgh, PA",
+        "summary": "Through self-motivated learning, discovered my passion for creating software that people use and enjoy",
+        "positions": [
+          {
+            "title": "Independent Contractor",
+            "startDate": "July 2006",
+            "endDate": "October 2009",
+            "duties": [
+              "Self-taught, I developed and maintained websites for a variety of clients.",
+              "My clients were primarily non-profit organizations, from community groups to nation-wide lobbying firms."
+            ]
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Modern JavaScript Web Frameworks",
+        "summary": "Extensive experience with development of modern JavaScript web applications",
+        "specifics": [
+          {
+            "name": "Vue 2/3",
+            "fluency": 8
+          },
+          {
+            "name": "React",
+            "fluency": 6
+          },
+          {
+            "name": "TypeScript",
+            "fluency": 6
+          },
+          {
+            "name": "Webpack",
+            "fluency": 5
+          },
+          {
+            "name": "Vite",
+            "fluency": 5
+          },
+          {
+            "name": "Flux and Flux-like state management",
+            "fluency": 6
+          }
+        ]
+      },
+      {
+        "name": "API Design and Implementation",
+        "summary": "Experience with a wide variety of backend technologies and patterns",
+        "specifics": [
+          {
+            "name": "REST",
+            "fluency": 7
+          },
+          {
+            "name": "GraphQL",
+            "fluency": 5
+          },
+          {
+            "name": "RPC",
+            "fluency": 7
+          },
+          {
+            "name": "Node.js",
+            "fluency": 7
+          },
+          {
+            "name": "Microservice decomposition",
+            "fluency": 4
+          }
+        ]
+      },
+      {
+        "name": "Agile Methodologies",
+        "summary": "Years of developing on teams using agile to plan and improve",
+        "specifics": [
+          {
+            "name": "Kanban",
+            "fluency": 7
+          },
+          {
+            "name": "Scrum",
+            "fluency": 7
+          },
+          {
+            "name": "Continuous improvement",
+            "fluency": 5
+          },
+          {
+            "name": "Cycle planning",
+            "fluency": 5
+          }
+        ]
+      },
+      {
+        "name": "Collaboration and Leadership",
+        "summary": "Solid record of teamwork from colocated teams of two devs to globally distributed multiteam tracks of 50 devs",
+        "specifics": [
+          {
+            "name": "Remote collaboration",
+            "fluency": 7
+          },
+          {
+            "name": "Written communication",
+            "fluency": 8
+          },
+          {
+            "name": "Mentorship",
+            "fluency": 8
+          },
+          {
+            "name": "Interdisciplinary collaboration",
+            "fluency": 8
+          }
+        ]
+      },
+      {
+        "name": "Self-motivated",
+        "summary": "From roots as a self-taught freelancer, always eagerly exploring new technologies without losing sight of the present-day goals",
+        "specifics": [
+          {
+            "name": "Quick Learner",
+            "fluency": 8
+          },
+          {
+            "name": "New Technology Evaluation",
+            "fluency": 5
+          },
+          {
+            "name": "Passionate",
+            "fluency": 8
+          }
+        ]
+      },
+      {
+        "name": "Quality-minded",
+        "summary": "Champion of testing with an emphasis on building confidence in those tests to reduce the risk of change",
+        "specifics": [
+          {
+            "name": "Test-driven development",
+            "fluency": 8
+          },
+          {
+            "name": "Behavior-driven development",
+            "fluency": 7
+          },
+          {
+            "name": "Jest",
+            "fluency": 9
+          },
+          {
+            "name": "Cypress",
+            "fluency": 6
+          }
+        ]
+      }
+    ]
+  }
+}

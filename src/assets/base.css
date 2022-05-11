@@ -1,0 +1,84 @@
+:root {
+  --white: #f2f2f2;
+  --black: #0d0d0d;
+  --bright-green: #4D8C30;
+  --dark-green: #0F4001;
+  --blue: #143C8C;
+}
+
+/* semantic color variables */
+:root {
+  --color-background: var(--white);
+  --color-border: var(--bright-green);
+  --color-text: var(--black);
+  --color-link: var(--dark-green);
+  --color-link-active: var(--bright-green);
+  --color-link-visited: var(--blue);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: var(--black);
+    --color-border: var(--dark-green);
+    --color-text: var(--white);
+    --color-link: var(--bright-green);
+    --color-link-active: var(--dark-green);
+    --color-link-visited: var(--blue);
+  }
+}
+
+/* Semantic sizing variables */
+:root {
+  --line-height: 1.6;
+}
+
+
+@media print {
+  body {
+    --color-background: #ffffff;
+  }
+}
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition: color 0.5s, background-color 0.5s;
+  line-height: var(--line-height);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app {
+  display: flex;
+  place-items: center;
+}
+
+a, .hidden-value {
+  color: var(--color-link);
+  cursor: pointer;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+a:hover, .hidden-value:hover, a:active, .hidden-value:active {
+  color: var(--color-link-active);
+}
+
+a:visited, .hidden-value:visited {
+  color: var(--color-link-visited);
+}
